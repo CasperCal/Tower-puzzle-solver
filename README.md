@@ -1,5 +1,5 @@
 # Tower-puzzle-solver
-A project made together with Aldietri, to solve the lesser known tower sudoku game using a recursive function to fill it out and check the validity,
+A project made to solve the lesser known tower sudoku game using a recursive function to fill it out and check the validity,
 until a solution has been found. Will work up until 7x7 tower puzzles (in under 8s on a home machine), 
 bigger ones will take significantly longer and may time out. Normal Tower puzzles use the 5x5 format.
 
